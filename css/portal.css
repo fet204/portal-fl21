@@ -53,6 +53,12 @@ a:hover {
     text-decoration: none;
 }
 
+.title{
+    color: grey;
+    font-style: italic;
+    font-size: 15px;
+}
+
 footer {
     clear: both;
     text-align: center;
